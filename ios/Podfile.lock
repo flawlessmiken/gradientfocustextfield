@@ -41,12 +41,12 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/flutter_idensic_mobile_sdk_plugin/ios"
 
 SPEC CHECKSUMS:
-  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
   flutter_idensic_mobile_sdk_plugin: a52984d6b82ce25a7d77cc1dbfbeb2278dd10a7f
   IdensicMobileSDK: 6270bcb02c9e85fa0b73f85e1135a99cb5959d87
   OpenSSL-Universal: 84efb8a29841f2764ac5403e0c4119a28b713346
   TwilioVideo: 4afaac028c5886f2f3b313a9fcc146a6b7ca34e2
 
-PODFILE CHECKSUM: b2d85c9ebe686a8ec90ed412de04dcf518371844
+PODFILE CHECKSUM: 321d2803648d37bfec3fef027391e25688a995da
 
 COCOAPODS: 1.11.3
