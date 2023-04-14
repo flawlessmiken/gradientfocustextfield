@@ -1,51 +1,28 @@
 PODS:
   - Flutter (1.0.0)
-  - flutter_idensic_mobile_sdk_plugin (1.23.0):
+  - path_provider_foundation (0.0.1):
     - Flutter
-    - IdensicMobileSDK (= 1.23.0)
-    - IdensicMobileSDK/MRTDReader (= 1.23.0)
-    - IdensicMobileSDK/VideoIdent (= 1.23.0)
-  - IdensicMobileSDK (1.23.0):
-    - IdensicMobileSDK/Default (= 1.23.0)
-  - IdensicMobileSDK/Core (1.23.0)
-  - IdensicMobileSDK/Default (1.23.0):
-    - IdensicMobileSDK/Core
-  - IdensicMobileSDK/MRTDReader (1.23.0):
-    - IdensicMobileSDK/MRTDReader-latest
-  - IdensicMobileSDK/MRTDReader-latest (1.23.0):
-    - IdensicMobileSDK/Core
-    - OpenSSL-Universal
-  - IdensicMobileSDK/VideoIdent (1.23.0):
-    - IdensicMobileSDK/VideoIdent-compat
-  - IdensicMobileSDK/VideoIdent-compat (1.23.0):
-    - IdensicMobileSDK/Core
-    - TwilioVideo (~> 4)
-  - OpenSSL-Universal (1.1.1900)
-  - TwilioVideo (4.6.3)
+    - FlutterMacOS
+  - share_plus (0.0.1):
+    - Flutter
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
-  - flutter_idensic_mobile_sdk_plugin (from `.symlinks/plugins/flutter_idensic_mobile_sdk_plugin/ios`)
-
-SPEC REPOS:
-  https://github.com/SumSubstance/Specs.git:
-    - IdensicMobileSDK
-  trunk:
-    - OpenSSL-Universal
-    - TwilioVideo
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/ios`)
+  - share_plus (from `.symlinks/plugins/share_plus/ios`)
 
 EXTERNAL SOURCES:
   Flutter:
     :path: Flutter
-  flutter_idensic_mobile_sdk_plugin:
-    :path: ".symlinks/plugins/flutter_idensic_mobile_sdk_plugin/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/ios"
+  share_plus:
+    :path: ".symlinks/plugins/share_plus/ios"
 
 SPEC CHECKSUMS:
   Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
-  flutter_idensic_mobile_sdk_plugin: a52984d6b82ce25a7d77cc1dbfbeb2278dd10a7f
-  IdensicMobileSDK: 6270bcb02c9e85fa0b73f85e1135a99cb5959d87
-  OpenSSL-Universal: 84efb8a29841f2764ac5403e0c4119a28b713346
-  TwilioVideo: 4afaac028c5886f2f3b313a9fcc146a6b7ca34e2
+  path_provider_foundation: c68054786f1b4f3343858c1e1d0caaded73f0be9
+  share_plus: 056a1e8ac890df3e33cb503afffaf1e9b4fbae68
 
 PODFILE CHECKSUM: 321d2803648d37bfec3fef027391e25688a995da
 
